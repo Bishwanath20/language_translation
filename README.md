@@ -1,4 +1,4 @@
-# Multi-Language AI Translator 🌐
+# Language Translation 🌐
 
 A context-aware translation tool that converts English text into Hindi and Telugu simultaneously using state-of-the-art Transformer models.
 
